@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Education</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="e_mail">E-mail</string>
+    <string name="pass">Password</string>
+</resources>
